@@ -1,1 +1,1 @@
-print("hoy es sabado joda joda joda")
+print("hoy es sabado")
